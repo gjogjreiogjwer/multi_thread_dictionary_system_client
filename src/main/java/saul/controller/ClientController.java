@@ -1,6 +1,4 @@
 package saul.controller;
-xxxxxxx
-
 import lombok.extern.log4j.Log4j2;
 import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
